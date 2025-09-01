@@ -52,7 +52,7 @@ Load the dataset into a Pandas DataFrame.
 
 Dataset: judge-1377884607_tweet_product_company.csv
 
-### 2️. Preprocessing with NLTK
+### 2️. Quick Exploratory Check
 
 Tokenization
 
@@ -62,19 +62,32 @@ Lowercasing
 
 (Optional) Lemmatization with WordNetLemmatizer
 
-### 3️. Vectorization
+### 3. Data Preparation
+cleaned each tweet (removing links, @names, etc.), converted labels into clear **positive/negative/neutral** classes, filtered out unusable rows, and created a rough brand tag (Apple/Google/Other) for later summaries
+
+### 4. Preprocessing with NLTK
+
+Tokenization
+
+Stopword Removal (while keeping negations such as not, no, n't)
+
+Lowercasing
+
+(Optional) Lemmatization with WordNetLemmatizer
+
+### 5. Vectorization
 
 Apply TF-IDF Vectorization using a custom NLTK tokenizer
 
 Features include unigrams and bigrams
 
-### 4️. Model Training
+### 6. Model Training
 
 Train a LinearSVC classifier on the training split
 
 Validate performance on the validation split
 
-### 5️. Evaluation
+### 7. Evaluation
 
 Classification Report: Precision, Recall, F1-score, and Support
 

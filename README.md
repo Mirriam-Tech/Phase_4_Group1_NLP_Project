@@ -9,7 +9,9 @@ This project performs **sentiment analysis** on tweets related to **Apple** and 
 ## Project Structure
 
 ├── Phase4_NLP_Twitter_Sentiment_Apple_Google.ipynb # Main Jupyter Notebook
+
 ├── judge-1377884607_tweet_product_company.csv # Dataset
+
 ├── README.md # Project Documentation
 
 

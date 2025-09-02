@@ -1,0 +1,57 @@
+[33mcommit fe7d3d96eb5dd795b22892ef72894e89159e412b[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mbeth[m[33m, [m[1;32mmain[m[33m)[m
+Author: Edwin Kiuma <62498603+edwin659898@users.noreply.github.com>
+Date:   Tue Sep 2 01:34:49 2025 +0300
+
+    Update README.md
+
+[33mcommit cc569141fe6d1824f9078941934dc1c972e8277b[m[33m ([m[1;31morigin/Mirriam[m[33m)[m
+Merge: c07bdc0 67e4966
+Author: Edwin Joshua <edwinjosh2030@gmail.com>
+Date:   Mon Sep 1 21:15:47 2025 +0300
+
+    Add Quick Exploratory Check and Data preparation
+
+[33mcommit c07bdc024e88a2b8888dedc5dfbd0e249cffea87[m
+Author: Edwin Joshua <edwinjosh2030@gmail.com>
+Date:   Mon Sep 1 21:11:37 2025 +0300
+
+    add Quick Exploratory check and Data Preparation
+
+[33mcommit 67e4966c04ef071f453d894a03da8a48dc4df3cf[m
+Author: Mirriam-Tech <davidmirriam1@gmail.com>
+Date:   Mon Sep 1 21:05:37 2025 +0300
+
+    Introduction and loading data
+
+[33mcommit 9e888d5207b2692f0fbb9b48def12a8fdaa9c737[m
+Author: Edwin Joshua <edwinjosh2030@gmail.com>
+Date:   Mon Sep 1 19:20:18 2025 +0300
+
+    introductory
+
+[33mcommit e37fee7b7cf115d3fb6eb587d3f39997a214bdbe[m
+Merge: e229c76 ee5008e
+Author: Mirriam-Tech <davidmirriam1@gmail.com>
+Date:   Sun Aug 31 10:32:39 2025 +0300
+
+    Merge pull request #1 from Mirriam-Tech/mercychebet
+    
+    added notebook and dataset
+
+[33mcommit ee5008e923b22f0271b5e8c090e62f244417eb09[m
+Author: Mercy Chebet <mercy.chebet1@student.moringaschool.com>
+Date:   Sun Aug 31 10:30:49 2025 +0300
+
+    added notebook and dataset
+
+[33mcommit e229c76746643ebefd06e45e8774bed81be2f109[m
+Author: Mercy Chebet <mercy.chebet1@student.moringaschool.com>
+Date:   Fri Aug 29 22:08:13 2025 +0300
+
+    initialize .gitignore
+
+[33mcommit 38dbb45224e4fc5c5f5871c108ce14a7fb4c4da5[m
+Author: Mirriam-Tech <davidmirriam1@gmail.com>
+Date:   Fri Aug 29 20:40:39 2025 +0300
+
+    Initial commit

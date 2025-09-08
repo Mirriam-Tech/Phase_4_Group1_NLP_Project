@@ -111,6 +111,17 @@ Scikit-learn
 Matplotlib
 
 
+## Contributors  
+
+1. Kelvin Shilisia  
+2. Edwin Joshua  
+3. Antony Muthee  
+4. Mercy Chebet  
+5. Beth Mwangi  
+6. Mirriam David  
+
+
+
 # Results
 
 Classification Report: Shows precision, recall, and F1-score for each sentiment class.
